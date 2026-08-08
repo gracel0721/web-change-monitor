@@ -1,0 +1,18 @@
+/webwatch
+/webwatch.exe
+/dist/
+*.db
+*.db-wal
+*.db-shm
+
+# Local app dir copies that may get created during testing
+/.webwatch/
+
+# Go
+*.test
+*.out
+
+# Python
+__pycache__/
+*.pyc
+.venv/
