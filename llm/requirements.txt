@@ -1,0 +1,7 @@
+# llm/summarize.py uses only the Python standard library (urllib + json),
+# so there are no third-party dependencies to install.
+#
+# If you later switch to the `requests` library or the `ollama` Python SDK,
+# pin them here, e.g.:
+#   requests>=2.31
+#   ollama>=0.1
